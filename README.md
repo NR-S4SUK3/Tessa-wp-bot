@@ -41,3 +41,11 @@ This is an open source project, you are responsible for everything you do.
 Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
   
+```
+  
+  ## Re-Developed By
+  <div align="center">
+    
+  [![Farhan-Dqz](https://github.com/TG-V4MP1R3.png?size=100)](https://github.com/TG-V4MP1R3)
+  ----
+  [V4MP1R3](https://github.com/TG-V4MP1R3)

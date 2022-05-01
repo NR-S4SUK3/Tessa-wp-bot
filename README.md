@@ -32,7 +32,12 @@ Project created by <a href="https://github.com/V4MP1R3">V4MP1R3</a> to make it p
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot) -->
   
   
-  
+## 📢 Guide
+Click WA logo to Join Bot Working Group 👇
+    <br>
+<br>
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI)
+  <div align="center">
     
 ### ⚠️ Warning! 
 ```

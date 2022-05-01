@@ -1,10 +1,4 @@
-## WhatsApp User Bot
-
-This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com/Quiec)
-
-## What is WhatsAsena?
-
-**WhatsAsena,** is a WhatsApp bot written by [Yusuf Usta](https://github.com/Quiec). Does not log into your account It is written on WhatsApp Web API.
+## 𝐓𝐄𝐒𝐒𝐀 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓
 
 ## Setup
 

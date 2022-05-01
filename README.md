@@ -48,7 +48,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   
 ```
   
-  ## Re-Developed By
+  ## Developed By
   <div align="center">
     
   [![Farhan-Dqz](https://github.com/TG-V4MP1R3.png?size=100)](https://github.com/TG-V4MP1R3)

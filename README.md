@@ -1,6 +1,29 @@
-## 𝐓𝐄𝐒𝐒𝐀 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓
+
+<div align="center">
+  <img border-radius: 15px src="https://telegra.ph/file/4cbcc22151697f6dfb3d0.jpg/u/83164448?v=4" width="200" height="200"/>
+  <p align="center">
+<a href="#"><img title="Tessa" src="https://img.shields.io/badge/Tessa-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+  <p align="center">
+<a href="https://github.com/TG-V4MP1R3"><img title="Author" src="https://img.shields.io/badge/Author-farhan-dqz?color=blue&style=for-the-badge&logo=whatsapp"></a>
+</p>
+</div>
+<p align="center">
+Project created by <a href="https://github.com/V4MP1R3">V4MP1R3</a> to make it public
+    <br>
+       | © |
+        Reserved |
+    <br> 
 
 ## Setup
+   
+   
+ ## Setup
+<div align="center">
+
+  ### Simple Method
+  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TG-V4MP1R3/Tessa-wp-bot)   
 
 1. Click [SCAN](https://early-pie-production.up.railway.app/qr) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
 2. You will get a long text that needs after 4th step (ASENA_SESSION).

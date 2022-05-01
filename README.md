@@ -20,7 +20,7 @@ Project created by <a href="https://github.com/V4MP1R3">V4MP1R3</a> to make it p
 
   ### Simple Method
   
-Click [SCAN](https://early-pie-production.up.railway.app/md) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
+Click [SCAN](https://early-pie-production.up.railway.app/qr) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TG-V4MP1R3/Tessa-wp-bot)   
   

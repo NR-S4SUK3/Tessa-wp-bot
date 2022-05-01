@@ -20,9 +20,9 @@ Project created by <a href="https://github.com/V4MP1R3">V4MP1R3</a> to make it p
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TG-V4MP1R3/Tessa-wp-bot)   
+Click [SCAN](https://early-pie-production.up.railway.app/md) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
   
- Click [SCAN](https://early-pie-production.up.railway.app/qr) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TG-V4MP1R3/Tessa-wp-bot)   
   
  If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
@@ -43,8 +43,6 @@ Click WA logo to Join Bot Working Group 👇
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
   
 ```
   
